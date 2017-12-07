@@ -1,3 +1,3 @@
-# Game bland vertexes
+# Game blend vertexes
 
 Linux build <img src="https://travis-ci.org/vasilenko-alexander/Game_blend_triangle.svg?branch=master"/>
